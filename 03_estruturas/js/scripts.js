@@ -161,7 +161,7 @@ for (let g = 20; g > 10; g--) {
 }
 
 // 15 - Continue
-for (let s = 1; s < 10; s = s +1) {
+for (let s = 1; s < 10; s = s + 1) {
     // Operador de resto = %
     if (s % 2 === 0) {
         console.log(`Número par!`)
