@@ -146,6 +146,7 @@ console.log(c2.motor);
 Caminhao.prototype.motor = 4.0; // Funciona via prototype
 
 const c3 = new Caminhao(6, "Azul");
+console.log(c3);
 console.log(c3.motor);
 
 // 11 - Override
